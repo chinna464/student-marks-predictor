@@ -1,0 +1,16 @@
+[theme]
+base="light"
+
+# Background of the whole app
+backgroundColor="#f5f5f5"
+
+# Sidebar background (even if you don’t use sidebar)
+secondaryBackgroundColor="#ffffff"
+
+# Main text color
+textColor="#111111"
+
+# Accent color (buttons, sliders, highlights)
+primaryColor="#2563eb"
+
+font="sans serif"
