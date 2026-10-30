@@ -100,3 +100,6 @@ This project is open source and available under the MIT License.
 ## Author
 
 Built with ❤️ using Python and Streamlit
+## Project Update
+Student Marks Predictor project developed using Python and Machine Learning.
+This project predicts student marks based on input data.
